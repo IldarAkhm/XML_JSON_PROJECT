@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<educationalMaterials>
+	<material>
+		<title>Программирование на C#</title>
+		<author>
+			<name>Латыпова Дина Сергеевна</name>
+			<email>neznau@gmail.com</email>
+		</author>
+		<duration>Год</duration>
+		<description>Курс введения в язык C#</description>
+		<publishedDate>2022-09-01</publishedDate>
+	</material>
+	<material>
+		<title>Математический анализ</title>
+		<author>
+			<name>Сидоров Анатолий Михайлович</name>
+			<email>neznau@gmail.com</email>
+		</author>
+		<description>Введение в анализ</description>
+		<duration>3 года</duration>
+		<publishedDate>2022-09-01</publishedDate>
+	</material>
+	<material>
+		<title>Алгебра и геометрия</title>
+		<author>
+			<name>Евгений Карчевский</name>
+			<email>neznau@gmail.com</email>
+		</author>
+		<description>Введение в алгебру и геометрию</description>
+		<duration>3 года</duration>
+		<publishedDate>2022-09-01</publishedDate>
+	</material>
+</educationalMaterials>

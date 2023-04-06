@@ -1,0 +1,34 @@
+{
+  "entities": [
+    {
+      "id": 1,
+      "title": "Программирование на C#",
+      "author": {
+        "name": "Латыпова Дина Сергеевна",
+        "email": "neznau@gmail.com"
+      },
+      "duration": "Год",
+      "publichedDate": "2022-09-01"
+    },
+    {
+      "id": 2,
+      "title": "Математический анализ",
+      "author": {
+        "name": "Сидоров Анатолий Михайлович",
+        "email": "neznau@gmail.com"
+      },
+      "duration": "3 Года",
+      "publichedDate": "2022-09-01"
+    },
+    {
+      "id": 3,
+      "title": "Теория вероятностей",
+      "author": {
+        "name": "Вячеслав Тимофеевич Дубровин",
+        "email": "neznau@gmail.com"
+      },
+      "duration": "2 Года",
+      "publichedDate": "2022-09-01"
+    }
+  ]
+}
